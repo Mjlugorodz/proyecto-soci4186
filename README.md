@@ -11,7 +11,7 @@
 - Temas que me gustaría explorar este semestre: Como parte de mis cursos de Arqueología del Caribe, Seminario de Antropología y Seminario de Investigación en Historia del Arte, estaré investigando el proceso de museificación del Centro Ceremonial Indígena de Caguana, particularmente el proceso mediante el cual se ha modificado el paisaje y cómo el discurso arqueológico y el discurso patrimonial contrastan al momento de apalabrar la historia del espacio. Para este fin, quiero conocer cómo las herramientas que aprenderé en este curso me ayudarán a obtener datos precisos y cómo debo manejarlos. No obstante, en el contexto de este curso aún no tengo el vocabulario necesario para poder apalabrar todas las herramientas que existen y cuáles son sus usos. Por ello, sobre todo, lo que más me gustaría explorar es, primero, qué herramientas tecnológicas existen y, segundo, cuáles son algunos casos concretos de su uso práctico en la investigación antropológica.
 - Herramientas que quiero aprender (encuestas, mapas, redes, aprendizaje maquinal…): En el contexto de la investigación antes mencionada, quiero aprender a realizar encuestas. De todos modos, me gustaría aprender de forma general cuáles son todas las herramientas tecnológicas de las que puedo disponer.
  
-  ## Experiencia previa
+## Experiencia previa
 
   - Con estadística: Ninguna.
   - Con programación o computación: Particularmente GitHub, lo he utilizado anteriormente como parte de un internado en Humanidades Digitales.
